@@ -1,0 +1,16 @@
+.homeBodyContainer {
+  width: 1250px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: rgba(0, 0, 0, 0.562);
+
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.homeBodyContent {
+  padding-left: 10px;
+  padding-right: 10px;
+}
