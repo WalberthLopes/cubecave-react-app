@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <Header />
 
-      <HomeBody />
+      <HomeBody           />
 
       <Footer />
     </main>
